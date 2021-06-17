@@ -30,6 +30,9 @@ jobs:
     # Then run your tests!
     # CircleCI will report the results back to your VCS provider.
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "dd:cd:17:13:65:e0:a6:b4:31:ae:d3:f0:03:c4:32:c5"
       - checkout
       - run: git config user.email "dmitry.esv@gmail.com"
       - run: git config user.name "yoshikakbudto"
