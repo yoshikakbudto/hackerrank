@@ -38,9 +38,9 @@ jobs:
       - run: git config user.name "yoshikakbudto"
       - run: python readme_generator.py
       - run:
-        name: push changes if one exists.
-        command: |
-          git status | grep "modified:.*README.md" || exit 0
-          git add README.md
-          git commit -m "docs:autobuild readme.md"
-          git push
+          name: push changes if one exists.
+          command: |
+            git status | grep "modified:.*README.md" || exit 0
+            git add README.md
+            git commit -m "docs:autobuild readme.md"
+            git push
