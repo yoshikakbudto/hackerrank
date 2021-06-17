@@ -51,7 +51,7 @@ print(file=readmeFile)
 
 print(file=readmeFile)
 print('[![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)', file=readmeFile)
-print('[![repo size in bytes](https://img.shields.io/github/repo-size/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank) ', file=readmeFile)
+print('[![code size in bytes](https://img.shields.io/github/languages/code-size/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank) ', file=readmeFile)
 print('[![last commit](https://img.shields.io/github/last-commit/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank) ', file=readmeFile)
 
 print(file=readmeFile)

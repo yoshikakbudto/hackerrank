@@ -4,7 +4,7 @@ This repository contains 41 solutions to Hackerrank practice problems with Pytho
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
-[![repo size in bytes](https://img.shields.io/github/repo-size/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank) 
+[![code size in bytes](https://img.shields.io/github/languages/code-size/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank) 
 [![last commit](https://img.shields.io/github/last-commit/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank) 
 
 - Python
