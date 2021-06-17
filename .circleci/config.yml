@@ -30,8 +30,10 @@ jobs:
     # Then run your tests!
     # CircleCI will report the results back to your VCS provider.
     steps:
-      - checkout      
-      - run:
-          name: update README.md
-          # This assumes pytest is installed via the install-package step above
-          command: python readme_generator.py
+      - checkout
+      - run: git config user.email "dmitry.esv@gmail.com"
+      - run: git config user.name "yoshikakbudto"
+      - run: python readme_generator.py
+      - run: git add README.md
+      - run: git commit -m "docs: autobuild readme.md"
+      - run: git push
