@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 41 solutions to Hackerrank practice problems with Python 3.
+This repository contains 42 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -36,6 +36,7 @@ This repository contains 41 solutions to Hackerrank practice problems with Pytho
         - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/03.%20Strings/010.%20String%20Formatting.py) | Score: 10
         - Alphabet Rangoli | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/03.%20Strings/011.%20Alphabet%20Rangoli.py) | Score: 20
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/03.%20Strings/012.%20Capitalize!.py) | Score: 20
+        - The Minion Game | [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/03.%20Strings/013.%20The%20Minion%20Game.py) | Score: 40
     04. Sets
         - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/04.%20Sets/001.%20Introduction%20to%20Sets.py) | Score: 10
         - No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/04.%20Sets/002.%20No%20Idea!.py) | Score: 50
