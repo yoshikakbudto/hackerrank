@@ -18,33 +18,21 @@
      the maths rule as someone said. I'm not a math so a failed. The solution
      uses just one loop and looks simple. But i couldt get WHY does it working -
      it just a mistic-kind for me. so simple but far from understanding to simple sysadmin.
+     It took a half of hour to get the point.
 
-    The given code below  doesnt cope with big data
 """
 
-def substring_matches(string, pattern):
-    count = start = 0
-    while True:
-        start = string.find(pattern, start) + 1
-        if start > 0:
-            count+=1
-        else:
-            return count
-
-
-def minion_game(string):
-    voels="AEIOU"
-    seen = []
+def minion_game(s):
+    vowels = "AEIOU"
     kevin_score = 0   # vowels
     stuart_score = 0   # consonants
-    for i in range(len(string)):
-        for j in range(i+1, len(string)+1):
-            if string[i:j] not in seen:
-                seen.append(string[i:j])
-                if string[i:j][0] in voels:
-                    kevin_score += substring_matches(string, string[i:j])
-                else:
-                    kevin_score += substring_matches(string, string[i:j])
+    strlen = len(s)
+
+    for i in range(strlen):
+        if s[i] in vowels:
+            kevin_score += (strlen-i)
+        else:
+            stuart_score += (strlen-i)
 
     if stuart_score > kevin_score:
         print(f'Stuart {stuart_score}')
