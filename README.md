@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 43 solutions to Hackerrank practice problems with Python 3.
+This repository contains 44 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -56,5 +56,6 @@ This repository contains 43 solutions to Hackerrank practice problems with Pytho
         - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/05.%20Math/001.%20Polar%20Coordinates.py) | Score: 10
     06. Itertools
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
+        - itertoolspermutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/002.%20itertools.permutations().py) | Score: 10
     12. Regex and Parsing
         - Hex Color Code | [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20Regex%20and%20Parsing/002.%20Hex%20Color%20Code.py) | Score: 30
