@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 46 solutions to Hackerrank practice problems with Python 3.
+This repository contains 47 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -57,6 +57,7 @@ This repository contains 46 solutions to Hackerrank practice problems with Pytho
     06. Itertools
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertoolspermutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/002.%20itertools.permutations().py) | Score: 10
+        - itertoolscombinatinos() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/003.%20itertools.combinatinos().py) | Score: 10
     07. Collections
         - collectionsCounter | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/002.%20collections.Counter.py) | Score: 10
         - Defaultdict | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/003.%20Defaultdict.py) | Score: 20
