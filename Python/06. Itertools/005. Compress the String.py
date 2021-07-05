@@ -3,8 +3,4 @@
 
 from itertools import groupby
 
-final=""
-for j, k in groupby(input()):
-    final+="({}, {}) ".format(len([x for x in k]), j)
-
-print(final.rstrip())
+print(*[(len(tuple(k)), int(j)) for j, k in groupby(input())])
