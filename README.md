@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 51 solutions to Hackerrank practice problems with Python 3.
+This repository contains 52 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -61,6 +61,7 @@ This repository contains 51 solutions to Hackerrank practice problems with Pytho
         - combinations_with_replacement | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/004.%20combinations_with_replacement.py) | Score: 10
         - Compress the String | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/005.%20Compress%20the%20String.py) | Score: 20
         - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/006.%20Iterables%20and%20Iterators.py) | Score: 40
+        -  Maximize It | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/06.%20Itertools/007.%20%20Maximize%20It.py) | Score: 50
     07. Collections
         - collectionsCounter | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/002.%20collections.Counter.py) | Score: 10
         - Defaultdict | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/003.%20Defaultdict.py) | Score: 20
