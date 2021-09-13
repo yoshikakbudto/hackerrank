@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 52 solutions to Hackerrank practice problems with Python 3.
+This repository contains 53 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -67,5 +67,7 @@ This repository contains 52 solutions to Hackerrank practice problems with Pytho
         - Defaultdict | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/003.%20Defaultdict.py) | Score: 20
     11. Built-ins
         - Zipped | [Problem](https://www.hackerrank.com/challenges/zipped/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/11.%20Built-ins/001.%20Zipped.py) | Score: 10
-    12. Regex and Parsing
-        - Hex Color Code | [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20Regex%20and%20Parsing/002.%20Hex%20Color%20Code.py) | Score: 30
+    12.  Python Functionals
+        - Map and Lambda Function | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20%20Python%20Functionals/001.%20Map%20and%20Lambda%20Function.py) | Score: 20
+    13. Regex and Parsing
+        - Hex Color Code | [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/002.%20Hex%20Color%20Code.py) | Score: 30
