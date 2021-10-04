@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 54 solutions to Hackerrank practice problems with Python 3.
+This repository contains 61 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -65,10 +65,18 @@ This repository contains 54 solutions to Hackerrank practice problems with Pytho
     07. Collections
         - collectionsCounter | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/002.%20collections.Counter.py) | Score: 10
         - Defaultdict | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/07.%20Collections/003.%20Defaultdict.py) | Score: 20
+    08. Date and Time
+    09. Errors and Exceptions
+    10. Classes
     11. Built-ins
         - Zipped | [Problem](https://www.hackerrank.com/challenges/zipped/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/11.%20Built-ins/001.%20Zipped.py) | Score: 10
-    12.  Python Functionals
-        - Map and Lambda Function | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20%20Python%20Functionals/001.%20Map%20and%20Lambda%20Function.py) | Score: 20
-        -  | [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20%20Python%20Functionals/002%20Validating%20Email%20Addresses%20With%20a%20Filter.py) | Score: 20
+    12. Python Functionals
+        - Map and Lambda Function | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20Python%20Functionals/001.%20Map%20and%20Lambda%20Function.py) | Score: 20
+        -  | [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/12.%20Python%20Functionals/002%20Validating%20Email%20Addresses%20With%20a%20Filter.py) | Score: 20
     13. Regex and Parsing
         - Hex Color Code | [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/002.%20Hex%20Color%20Code.py) | Score: 30
+    14. XML
+    15. Closures and Decorators
+        - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/15.%20Closures%20and%20Decorators/001.%20Standardize%20Mobile%20Number%20Using%20Decorators.py) | Score: 30
+    16. Numpy
+    17. Debugging
