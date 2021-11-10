@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 61 solutions to Hackerrank practice problems with Python 3.
+This repository contains 62 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -78,5 +78,6 @@ This repository contains 61 solutions to Hackerrank practice problems with Pytho
     14. XML
     15. Closures and Decorators
         - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/15.%20Closures%20and%20Decorators/001.%20Standardize%20Mobile%20Number%20Using%20Decorators.py) | Score: 30
+        - Decorators 2 - Name Directory | [Problem](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/15.%20Closures%20and%20Decorators/002.%20Decorators%202%20-%20Name%20Directory.py) | Score: 30
     16. Numpy
     17. Debugging
