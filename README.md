@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 64 solutions to Hackerrank practice problems with Python 3.
+This repository contains 66 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -77,6 +77,8 @@ This repository contains 64 solutions to Hackerrank practice problems with Pytho
         - Hex Color Code | [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/002.%20Hex%20Color%20Code.py) | Score: 30
         - ReSplit | [Problem](https://www.hackerrank.com/challenges/re-split/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/003.%20Re.Split.py) | Score: 20
         - Group,Groups,Groupdict | [Problem](https://www.hackerrank.com/challenges/re-group-groups/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/004.%20Group,Groups,Groupdict.py) | Score: 20
+        - Refindall and Refinditer  Reworked | [Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/005.%20Re.findall%20and%20Re.finditer%20%20Reworked.py) | Score: 20
+        - Refindall and Refinditer | [Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/005.%20Re.findall%20and%20Re.finditer.py) | Score: 20
     14. XML
     15. Closures and Decorators
         - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/15.%20Closures%20and%20Decorators/001.%20Standardize%20Mobile%20Number%20Using%20Decorators.py) | Score: 30
