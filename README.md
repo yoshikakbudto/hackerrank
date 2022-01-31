@@ -1,6 +1,6 @@
 
 # Solutions to Hackerrank practice problems
-This repository contains 67 solutions to Hackerrank practice problems with Python 3.
+This repository contains 69 solutions to Hackerrank practice problems with Python 3.
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/y/yoshikakbudto/hackerrank.svg)](https://github.com/yoshikakbudto/hackerrank)
@@ -80,6 +80,8 @@ This repository contains 67 solutions to Hackerrank practice problems with Pytho
         - Group,Groups,Groupdict | [Problem](https://www.hackerrank.com/challenges/re-group-groups/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/004.%20Group,Groups,Groupdict.py) | Score: 20
         - Refindall and Refinditer  Reworked | [Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/005.%20Re.findall%20and%20Re.finditer%20%20Reworked.py) | Score: 20
         - Refindall and Refinditer | [Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/005.%20Re.findall%20and%20Re.finditer.py) | Score: 20
+        - Restart and reend | [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/006.%20Re.start%20and%20re.end.py) | Score: 20
+        - Subst | [Problem](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/13.%20Regex%20and%20Parsing/007.%20Subst.py) | Score: 20
     14. XML
     15. Closures and Decorators
         - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/yoshikakbudto/hackerrank/blob/master/Python/15.%20Closures%20and%20Decorators/001.%20Standardize%20Mobile%20Number%20Using%20Decorators.py) | Score: 30
