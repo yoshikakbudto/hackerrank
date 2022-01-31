@@ -1,3 +1,6 @@
+# Problem: https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
+# Score: 20
+
 import re
 
 def fmt_and(match_obj) -> str:
